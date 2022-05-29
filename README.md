@@ -5,7 +5,7 @@
 Language Translator using *Google Translate APIs in Python* – Instantly Translate texts, words, phrases from one language to another.
 The program can translate over 100 languages and it can translate both words and sentences.
 
-![](https://github.com/xNazim/intro-final/blob/main/screenshot.PNG)
+![](https://github.com/aldaiar/intro-final/blob/main/screenshot.PNG)
 
 ### This project built by using *googletrans* and *Tkinter* libraries.
 
